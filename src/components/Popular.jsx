@@ -89,7 +89,7 @@ const Card = styled.div`
     align-items: center;
   }
 
-  @media (min-width: 800px) {
+  @media (min-width: 1500px) {
     height: 200px;
     width: 370px;
 
